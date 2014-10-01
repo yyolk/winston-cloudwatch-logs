@@ -19,7 +19,11 @@
     "amazon-cloudwatch-logs",
     "aws"
   ],
-  "author": "Joseph Yølk Chiocchi <joe@yolk.cc>",
+  "author": {
+    "name": "Joseph Yølk Chiocchi",
+    "email": "joe@yolk.cc",
+    "url": "http://yolk.cc"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/yyolk/winston-cloudwatch-logs/issues"
