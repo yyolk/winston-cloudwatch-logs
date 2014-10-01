@@ -1,0 +1,28 @@
+{
+  "name": "winston-cloudwatch-logs",
+  "version": "0.0.1",
+  "description": "Winston transport flor Amazon Cloudwatch Logs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yyolk/winston-cloudwatch-logs.git"
+  },
+  "keywords": [
+    "winston",
+    "cloudwatch",
+    "logs",
+    "amazon",
+    "amazon-cloudwatch",
+    "amazon-cloudwatch-logs",
+    "aws"
+  ],
+  "author": "Joseph Yølk Chiocchi <joe@yolk.cc>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yyolk/winston-cloudwatch-logs/issues"
+  },
+  "homepage": "https://github.com/yyolk/winston-cloudwatch-logs"
+}
